@@ -25,7 +25,7 @@ text-align:left;}
 #tablelinks > a{text-decoration: none; 
   color: #120358;
 }
-#tablelinks > h2, #tablelinks > h3 {text-align: left;}
+#tablelinks > h2, #tablelinks > a > h3 {text-align: left;}
 #tableofcontents {border: solid 3.3px #110443;
 border-radius: 10px;
 margin: 7px 1px;
@@ -61,7 +61,7 @@ padding: 7px;}
           border-radius: 10px;
           margin: 7px 1px;
           padding: 7px;}
- #section7 {border: solid 3.3px #6b3115;
+ #section7 {border: solid 3.3px #3e6415;
            border-radius: 10px;
             margin: 7px 1px;
             padding: 7px;}
@@ -81,7 +81,7 @@ padding: 7px;}
                   margin: 7px 1px;
                   padding: 7px;}
 
-  #section11 {border: solid 3.3px #871a05;
+  #section11 {border: solid 3.3px #c32404;
                     border-radius: 10px;
                     margin: 7px 1px;
                     padding: 7px;}
@@ -93,10 +93,34 @@ padding: 7px;}
 
 
 p {text-indent: 35px;}
+#autumntitle {color:#6b3115;
+text-decoration: underline;
+font-size: larger;}
 
-.buddy {color: #52b84d;}
-.love {color: #ff80dd;}
-.bff {color:#924be2;}
-.trouble {color: #bc1f27;}
-.neighbor{color:#623119 ;}
-.friend{color: #26aae2;}
+#wintertitle {color:#0565d9;
+  text-decoration: underline;
+  font-size: larger;}
+  #summertitle {color:#dbbf0a;
+    text-decoration: underline;
+    font-size: larger;}
+    #springtitle {color:#e21087;
+      text-decoration: underline;
+      font-size: larger;}
+.buddy {color: #52b84d;
+text-decoration: underline;
+font-size: large;}
+.love {color: #ff80dd;
+  text-decoration: underline;
+  font-size: large;}
+.bff {color:#924be2;
+  text-decoration: underline;
+  font-size: large;}
+.trouble {color: #bc1f27;
+  text-decoration: underline;
+  font-size: large;}
+.neighbor{color:#623119 ;
+  text-decoration: underline;
+  font-size: large;}
+.friend{color: #26aae2;
+  text-decoration: underline;
+  font-size: large;}
