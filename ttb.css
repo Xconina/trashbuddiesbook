@@ -18,33 +18,33 @@ a:active {color: #924be2;}
 h1, h2, h3 {text-align:center;
 font-family: copperplate, serif;}
 h1{font-family: copperplate, serif;}
-
+p, q, li {font-size: 1.14em;}
 #contentlist {list-style: none;
 text-align:left;}
 #dedication {text-align: center;}
 
 #tableofcontents {border: solid 5px #17065c;
 border-radius: 10px;
-margin: 7px;
+margin: 7px 1px;
 padding: 7px;}
 
 #dedication {border: solid 5px #7f0741;
   border-radius: 10px;
-  margin: 7px;
+  margin: 7px 1px;
   padding: 7px;}
 
 #section1 {border: solid 5px #067a25;
   border-radius: 10px;
-  margin: 7px;
+  margin: 7px 1px;
 padding: 7px;}
 
 #section2 {border: solid 5px #eb5104;
   border-radius: 10px;
-  margin: 7px;
+  margin: 7px 1px;
   padding: 7px;}
  #section3 {border: solid 5px #6b3115;
     border-radius: 10px;
-    margin: 7px;
+    margin: 7px 1px;
     padding: 7px;}
 
 p {text-indent: 35px;}
