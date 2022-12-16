@@ -1,4 +1,4 @@
-html {background-color:##ffffea;
+html {background-color:#ffffea;
         color: black;}
 
 .topnav {
@@ -22,6 +22,22 @@ h1{font-family: copperplate, serif;}
 #contentlist {list-style: none;
 text-align:left;}
 #dedication {text-align: center;}
+
+#tableofcontents {border: solid 5px #17065c;
+border-radius: 10px;
+margin: 7px;}
+
+#dedication {border: solid 5px #7f0741;
+  border-radius: 10px;
+  margin: 7px;}
+
+#ch1 {border: solid 5px #067a25;
+  border-radius: 10px;
+  margin: 7px;}
+
+#ch2 {border: solid 5px #eb5104;
+  border-radius: 10px;
+  margin: 7px;}
 
 p {text-indent: 35px;}
 
