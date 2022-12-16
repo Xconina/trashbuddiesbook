@@ -1,4 +1,4 @@
-html {background-color:#ffffea;
+html {background-color:#f7f6f0;
         color: black;}
 
 .topnav {
@@ -25,19 +25,27 @@ text-align:left;}
 
 #tableofcontents {border: solid 5px #17065c;
 border-radius: 10px;
-margin: 7px;}
+margin: 7px;
+padding: 7px;}
 
 #dedication {border: solid 5px #7f0741;
   border-radius: 10px;
-  margin: 7px;}
+  margin: 7px;
+  padding: 7px;}
 
-#ch1 {border: solid 5px #067a25;
+#section1 {border: solid 5px #067a25;
   border-radius: 10px;
-  margin: 7px;}
+  margin: 7px;
+padding: 7px;}
 
-#ch2 {border: solid 5px #eb5104;
+#section2 {border: solid 5px #eb5104;
   border-radius: 10px;
-  margin: 7px;}
+  margin: 7px;
+  padding: 7px;}
+ #section3 {border: solid 5px #6b3115;
+    border-radius: 10px;
+    margin: 7px;
+    padding: 7px;}
 
 p {text-indent: 35px;}
 
