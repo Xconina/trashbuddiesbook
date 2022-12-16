@@ -14,7 +14,7 @@ html {background-color:#f7f6f0;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;}
-a:active {color: #924be2;}
+a:active, a:hover {color: #cf1de0;}
 h1, h2, h3 {text-align:center;
 font-family: copperplate, serif;}
 h1{font-family: copperplate, serif;}
@@ -22,8 +22,11 @@ p, q, li {font-size: 1.1em;}
 #contentlist {list-style: none;
 text-align:left;}
 #dedication {text-align: center;}
-
-#tableofcontents {border: solid 3.3px #17065c;
+#tablelinks > a{text-decoration: none; 
+  color: #120358;
+}
+#tablelinks > h2, #tablelinks > h3 {text-align: left;}
+#tableofcontents {border: solid 3.3px #110443;
 border-radius: 10px;
 margin: 7px 1px;
 padding: 7px;}
