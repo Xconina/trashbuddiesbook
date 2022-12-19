@@ -129,3 +129,7 @@ font-size: large;}
   background-color: black;
   color: white;
 }
+img {border-radius: 10px;}
+
+.nostyle {color: black;}
+.tablewhite {color:white;}
