@@ -124,3 +124,8 @@ font-size: large;}
 .friend{color: #26aae2;
   text-decoration: underline;
   font-size: large;}
+
+#darkmode {
+  background-color: black;
+  color: white;
+}
